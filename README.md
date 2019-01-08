@@ -4,6 +4,7 @@
 
 Это приложение является продолжением разработки Counter-MVP-CleanArchitecture
 https://github.com/goncharenkorv/Counter-MVP-CleanArchitecture-Dagger2
+
 Эта версия: 
 * С озвучиванием нажатий на кнопки + вибро 
 * С сохранением/восстановлением значения с помощью SharedPreferences.
